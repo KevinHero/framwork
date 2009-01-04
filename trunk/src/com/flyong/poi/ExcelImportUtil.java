@@ -9,6 +9,9 @@ import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.hssf.usermodel.HSSFDateUtil;
 
+
+//import  poi-3.2-FINAL-20081019.jar and poi-contrib-3.0.2-FINAL-20080204.jar is ok
+
 public class ExcelImportUtil {
 	private SimpleDateFormat dateFormat = new SimpleDateFormat(
 			"yyyy-MM-dd HH:mm:ss");
