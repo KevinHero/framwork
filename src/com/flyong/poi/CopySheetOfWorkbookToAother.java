@@ -1,6 +1,6 @@
 package com.flyong.poi;
 
-import org.apache.poi.hssf.usermodel.*;
+//import  poi-3.2-FINAL-20081019.jar and poi-contrib-3.0.2-FINAL-20080204.jar is ok
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -12,7 +12,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-//import  poi-3.2-FINAL-20081019.jar and poi-contrib-3.0.2-FINAL-20080204.jar is ok
+/*
+
+import org.apache.poi.hssf.usermodel.*;
 
 public class CopySheetOfWorkbookToAother {
 	public static void main(String[] args) throws IOException {
@@ -137,4 +139,4 @@ public class CopySheetOfWorkbookToAother {
 			}
 		}
 	}
-}
+}*/
