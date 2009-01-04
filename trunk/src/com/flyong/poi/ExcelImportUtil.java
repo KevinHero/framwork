@@ -1,6 +1,9 @@
 package com.flyong.poi;
 
-import java.util.*;
+//import  poi-3.2-FINAL-20081019.jar and poi-contrib-3.0.2-FINAL-20080204.jar is ok
+
+
+/*import java.util.*;
 import java.io.FileInputStream;
 import java.text.SimpleDateFormat;
 import org.apache.poi.hssf.usermodel.HSSFCell;
@@ -10,7 +13,7 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.hssf.usermodel.HSSFDateUtil;
 
 
-//import  poi-3.2-FINAL-20081019.jar and poi-contrib-3.0.2-FINAL-20080204.jar is ok
+
 
 public class ExcelImportUtil {
 	private SimpleDateFormat dateFormat = new SimpleDateFormat(
@@ -201,4 +204,4 @@ public class ExcelImportUtil {
 
 	}
 
-}
+}*/
