@@ -1,17 +1,17 @@
 package com.flyong.others.xerces;
 
-import org.apache.xerces.parsers.SAXParser;
+/*import org.apache.xerces.parsers.SAXParser;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.XMLReader;
 import org.xml.sax.helpers.DefaultHandler;
 
-/**
+*//**
  * 一段使用Xerces解析XML的例子。
  * 
  * 
  * 
- */
+ *//*
 public class XercesTest extends DefaultHandler {
   public static void main(String args[]) throws Exception {
     (new XercesTest()).run(args[0]);
@@ -43,4 +43,4 @@ public class XercesTest extends DefaultHandler {
   public void endDocument() throws SAXException {
     System.out.println("end   parse   XML   file!");
   }
-}
+}*/
