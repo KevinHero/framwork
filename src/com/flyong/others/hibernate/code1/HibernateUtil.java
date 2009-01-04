@@ -7,16 +7,16 @@ import java.sql.Statement;
 import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;
 
-import org.hibernate.HibernateException;
+/*import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-/**
+*//**
  * 工具类。
  * 
  * 
- */
+ *//*
 public class HibernateUtil {
 
   public static final SessionFactory sessionFactory;
@@ -154,4 +154,4 @@ public class HibernateUtil {
       b.setCharAt(pos + i, s.charAt(i));
   }
 
-}
+}*/
