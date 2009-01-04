@@ -14,7 +14,7 @@ public class GetIps {
 		return bValid;
 	}
 
-	// ��127.0.0.1 ��ʽ��IP��ַת����10������������û�н����κδ�����
+	// ��127.0.0.1 ��ʽ��IP��ַת����10������������û�н����κδ  �����
 	public static long ipToLong(String strIP) {
 		long[] ip = new long[4];
 		//���ҵ�IP��ַ�ַ���.��λ��
