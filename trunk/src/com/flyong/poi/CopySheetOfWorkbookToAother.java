@@ -12,6 +12,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+//import  poi-3.2-FINAL-20081019.jar and poi-contrib-3.0.2-FINAL-20080204.jar is ok
+
 public class CopySheetOfWorkbookToAother {
 	public static void main(String[] args) throws IOException {
 		String xlsFilePath = "e:\\excel\\Template.xls";
