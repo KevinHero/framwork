@@ -41,7 +41,7 @@ public class BeanChangeListener {
     pceListeners.removePropertyChangeListener(listener);
   }
 
-  public static void main(String[] args) {
+ /* public static void main(String[] args) {
     BeanChangeListener t = new BeanChangeListener();
     t.addPropertyChangeListener(new PropertyChangeListener() {
 
@@ -54,5 +54,5 @@ public class BeanChangeListener {
 
     });
     t.setMyProperty(1000);
-  }
+  }*/
 }

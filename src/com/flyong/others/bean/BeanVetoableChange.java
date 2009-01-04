@@ -38,7 +38,7 @@ public class BeanVetoableChange {
     vceListeners.removeVetoableChangeListener(listener);
   }
 
-  public static void main(String[] args) throws Exception {
+  /*public static void main(String[] args) throws Exception {
     BeanVetoableChange t = (BeanVetoableChange) Beans.instantiate(ClassLoader
         .getSystemClassLoader(), "BeanVetoableChange");
 
@@ -58,5 +58,5 @@ public class BeanVetoableChange {
     });
     t.setMyProperty(1000);
     t.setMyProperty(-1000);
-  }
+  }*/
 }
