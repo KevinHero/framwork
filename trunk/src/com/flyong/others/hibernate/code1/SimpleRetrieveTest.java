@@ -2,7 +2,7 @@ package com.flyong.others.hibernate.code1;
 
 import java.util.*;
 
-import org.hibernate.*;
+/*import org.hibernate.*;
 import org.hibernate.criterion.*;
 
 public class SimpleRetrieveTest {
@@ -49,4 +49,4 @@ public class SimpleRetrieveTest {
     return calendar.getTime();
   }
 
-}
+}*/
