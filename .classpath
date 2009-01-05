@@ -4,6 +4,7 @@
 	<classpathentry kind="src" path="zip"/>
 	<classpathentry kind="src" path="mht"/>
 	<classpathentry kind="src" path="doc"/>
+	<classpathentry kind="src" path="Favorites"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="com.genuitec.eclipse.j2eedt.core.J2EE14_CONTAINER"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
