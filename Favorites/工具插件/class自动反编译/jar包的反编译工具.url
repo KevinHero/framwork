@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://topic.csdn.net/u/20070525/13/2a6f9af4-35de-438c-abea-16fcb2bb8d41.html?1444689069
+[DOC_Topic_Top]
+BASEURL=http://topic.csdn.net/u/AD/Topic_Top.aspx
+ORIGURL=/u/AD/Topic_Top.aspx
+[DOC_Topic_Zone]
+BASEURL=http://topic.csdn.net/u/AD/Topic_Zone.aspx
+ORIGURL=/u/AD/Topic_Zone.aspx
+[InternetShortcut]
+URL=http://topic.csdn.net/u/20070525/13/2a6f9af4-35de-438c-abea-16fcb2bb8d41.html?1444689069
+Modified=70F037D3AE47C90129

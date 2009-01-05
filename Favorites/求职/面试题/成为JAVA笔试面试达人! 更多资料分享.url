@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://topic.csdn.net/u/20081010/22/501B3A4B-3F75-4AA7-B8EF-2BA70FF4B923.html
+[DOC_Topic_Top]
+BASEURL=http://topic.csdn.net/u/AD/Topic_Top.aspx
+ORIGURL=/u/AD/Topic_Top.aspx
+[DOC_Topic_Zone]
+BASEURL=http://topic.csdn.net/u/AD/Topic_Zone.aspx
+ORIGURL=/u/AD/Topic_Zone.aspx
+[InternetShortcut]
+URL=http://topic.csdn.net/u/20081010/22/501B3A4B-3F75-4AA7-B8EF-2BA70FF4B923.html
+Modified=E0BD2DE41835C901C5

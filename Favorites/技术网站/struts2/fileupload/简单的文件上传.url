@@ -1,0 +1,5 @@
+[DEFAULT]
+BASEURL=http://localhost:8080/Struts2Upload/upload.jsp
+[InternetShortcut]
+URL=http://localhost:8080/Struts2Upload/upload.jsp
+Modified=90AB71030B29C901AD

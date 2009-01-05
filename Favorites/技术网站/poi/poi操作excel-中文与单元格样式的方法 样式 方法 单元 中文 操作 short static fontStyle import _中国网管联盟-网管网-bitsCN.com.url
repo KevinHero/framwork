@@ -1,0 +1,16 @@
+[DEFAULT]
+BASEURL=http://www.bitscn.com/java/base/200810/152676.html
+[DOC_mood_frame]
+BASEURL=http://www.bitscn.com/plus/mood/mood.php?aid=152676
+ORIGURL=http://www.bitscn.com/plus/mood/mood.php?aid=152676
+[DOC#336]
+BASEURL=http://www.bitscn.com/plus/img_news.html
+ORIGURL=http://www.bitscn.com/plus/img_news.html
+[DOC#436]
+BASEURL=http://www.bitscn.com/plus/img_right.html
+ORIGURL=http://www.bitscn.com/plus/img_right.html
+[InternetShortcut]
+URL=http://www.bitscn.com/java/base/200810/152676.html
+Modified=207EBFCF5066C901AC
+IconFile=http://www.bitscn.com/favicon.ico
+IconIndex=1
