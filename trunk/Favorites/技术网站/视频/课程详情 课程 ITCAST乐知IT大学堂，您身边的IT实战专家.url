@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://www.itcast.net/portal/courses/unit/185
+[DOC#414]
+BASEURL=http://www.itcast.net/portal/index.php/ajax/online
+ORIGURL=/portal/index.php/ajax/online
+[InternetShortcut]
+URL=http://www.itcast.net/portal/courses/unit/185
+Modified=E0DD2668952FC901D9

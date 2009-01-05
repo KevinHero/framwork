@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://topic.csdn.net/u/20070425/21/4b9f1ba1-3e82-4daf-8426-15868b8617e8.html
+[DOC_Topic_Top]
+BASEURL=http://topic.csdn.net/u/AD/Topic_Top.aspx
+ORIGURL=/u/AD/Topic_Top.aspx
+[DOC_Topic_Zone]
+BASEURL=http://topic.csdn.net/u/AD/Topic_Zone.aspx
+ORIGURL=/u/AD/Topic_Zone.aspx
+[InternetShortcut]
+URL=http://topic.csdn.net/u/20070425/21/4b9f1ba1-3e82-4daf-8426-15868b8617e8.html
+Modified=A0456AF6A52AC901DE

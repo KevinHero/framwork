@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://topic.csdn.net/u/20081106/13/F78F4D12-E8C3-4B36-8D2E-A3314B28761D.html
+[DOC_Topic_Top]
+BASEURL=http://topic.csdn.net/u/AD/Topic_Top.aspx
+ORIGURL=/u/AD/Topic_Top.aspx
+[DOC_Topic_Zone]
+BASEURL=http://topic.csdn.net/u/AD/Topic_Zone.aspx
+ORIGURL=/u/AD/Topic_Zone.aspx
+[DOC_replyframe]
+BASEURL=res://C:\WINDOWS\system32\shdoclc.dll/dnserror.htm
+ORIGURL=http://forum.csdn.net/PointForum/Forum/ReplyTopic.aspx?forumID=0a4a010e-8694-4139-b91f-a4ee1374981b&topicID=f78f4d12-e8c3-4b36-8d2e-a3314b28761d&postDate=2008-11-6+13%3a15%3a05
+[InternetShortcut]
+URL=http://topic.csdn.net/u/20081106/13/F78F4D12-E8C3-4B36-8D2E-A3314B28761D.html
+Modified=802C89679741C9013E

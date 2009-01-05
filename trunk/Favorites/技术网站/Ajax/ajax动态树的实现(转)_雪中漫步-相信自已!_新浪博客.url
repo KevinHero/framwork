@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://blog.sina.com.cn/s/blog_5656b0020100a4kj.html
+[DOC_loadingIframe]
+BASEURL=http://blog.sina.com.cn/lm/iframe/article/sort_113_1.html
+[DOC_xp_content_iframe]
+BASEURL=http://blog.2008.sina.com.cn/lm/mini/01.html?tj=1
+ORIGURL=http://blog.2008.sina.com.cn/lm/mini/01.html?tj=1
+[InternetShortcut]
+URL=http://blog.sina.com.cn/s/blog_5656b0020100a4kj.html
+Modified=70E6F3FB75FBC8017D

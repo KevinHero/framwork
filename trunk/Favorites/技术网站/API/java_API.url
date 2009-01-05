@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://gceclub.sun.com.cn/Java_Docs/html/zh_CN/api/
+[DOC#9#10#12]
+BASEURL=http://gceclub.sun.com.cn/Java_Docs/html/zh_CN/api/java/util/package-frame.html
+ORIGURL=allclasses-frame.html
+[DOC#9#13]
+BASEURL=http://gceclub.sun.com.cn/Java_Docs/html/zh_CN/api/java/util/List.html
+ORIGURL=overview-summary.html
+[InternetShortcut]
+URL=http://gceclub.sun.com.cn/Java_Docs/html/zh_CN/api/
+Modified=7064ABEC4203C9017A

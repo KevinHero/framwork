@@ -1,0 +1,5 @@
+[DEFAULT]
+BASEURL=http://localhost:8080/Struts2_Fileupload/fileUploadPage/FileUpload.jsp
+[InternetShortcut]
+URL=http://localhost:8080/Struts2_Fileupload/fileUploadPage/FileUpload.jsp
+Modified=F06289CF4421C901D9

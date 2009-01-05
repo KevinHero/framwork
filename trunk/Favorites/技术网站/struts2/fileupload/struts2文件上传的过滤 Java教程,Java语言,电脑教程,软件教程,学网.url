@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://www.xue5.com/itedu/200707/131509.html
+[DOC_baiduSpFrame]
+BASEURL=http://spcode.baidu.com/spcode/spstyle/style1327.jsp?tn=xue5_sp&ctn=0&styleid=1327
+ORIGURL=http://spcode.baidu.com/spcode/spstyle/style1327.jsp?tn=xue5_sp&ctn=0&styleid=1327
+[DOC#641#4#6]
+BASEURL=http://6.cn/gdsll/xl26.html
+ORIGURL=http://6.cn/gdsll/xl26.html
+[InternetShortcut]
+URL=http://www.xue5.com/itedu/200707/131509.html
+Modified=60DC1E32AA2AC9012A
+IconFile=http://www.xue5.com/favicon.ico
+IconIndex=1

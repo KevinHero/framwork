@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://www.matrix.org.cn/thread.shtml?topicId=25134&forumId=31
+[DOC#64]
+BASEURL=http://www.matrix.org.cn/dynamicInfo.shtml
+ORIGURL=/dynamicInfo.shtml
+[DOC#180]
+BASEURL=http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-5410880597696239&dt=1216876520203&lmt=1216876520&output=html&slotname=1061391061&correlator=1216876520187&url=http%3A%2F%2Fwww.matrix.org.cn%2Fthread.shtml%3FtopicId%3D25134%26forumId%3D31&frm=0&cc=100&ga_vid=649479733.1216875934&ga_sid=1216876520&ga_hid=444534961&ga_fc=true&flash=9.0.124.0&u_h=768&u_w=1024&u_ah=738&u_aw=1024&u_cd=32&u_tz=480&u_his=10&u_java=true
+ORIGURL=http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-5410880597696239&dt=1216876520203&lmt=1216876520&output=html&slotname=1061391061&correlator=1216876520187&url=http%3A%2F%2Fwww.matrix.org.cn%2Fthread.shtml%3FtopicId%3D25134%26forumId%3D31&frm=0&cc=100&ga_vid=649479733.1216875934&ga_sid=1216876520&ga_hid=444534961&ga_fc=true&flash=9.0.124.0&u_h=768&u_w=1024&u_ah=738&u_aw=1024&u_cd=32&u_tz=480&u_his=10&u_java=true
+[InternetShortcut]
+URL=http://www.matrix.org.cn/thread.shtml?topicId=25134&forumId=31
+Modified=90ED0A504CEDC801D9
+IconFile=http://www.matrix.org.cn/favicon.ico
+IconIndex=1

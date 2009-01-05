@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://baike.360.cn/4011372/3003810.html
+[DOC_rtf]
+BASEURL=about:blank
+ORIGURL=about:blank
+[InternetShortcut]
+URL=http://baike.360.cn/4011372/3003810.html
+Modified=40DFC47949EDC8015B
+IconFile=http://baike.360.cn/favicon.ico
+IconIndex=1

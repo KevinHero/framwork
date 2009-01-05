@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://www.52515.net:8088/library.asp?url=/file.asp?fileid=1595&rq=2007-5-10&boardid=61
+[DOC_main]
+BASEURL=http://www.52515.net:8088/board.asp?boardid=38
+ORIGURL=/file.asp?fileid=1595&rq=2007-5-10&boardid=61
+[InternetShortcut]
+URL=http://www.52515.net:8088/library.asp?url=/file.asp?fileid=1595&rq=2007-5-10&boardid=61
+Modified=90F9F9CAE62CC90128

@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://lucenebook.spaces.live.com/
+[DOC_dapIfM0Child]
+BASEURL=http://lucenebook.spaces.live.com/
+ORIGURL=javascript:void(document.write('<html><head><title>Advertisement</title></head><body id="dapIfM0Child" leftmargin="0" topmargin="0"><script type="text/javascript">var inDapIF=true;document.domain="live.com"; var inDapMgrIf=true;window.setTimeout("document.close();",30000);</script><IFRAME MARGINHEIGHT=0 MARGINWIDTH=0 FRAMEBORDER=0 WIDTH=728 HEIGHT=90 SCROLLING=NO SRC="http://msn.allyes.com/main/adfshow?user=MSN|MSN_Spaces|SPAZ05_CNZHsSPACEROS_BAN728X90_I3&db=msn&border=0&local=yes">\n<script LANGUAGE="JavaScript1.1" SRC="http://msn.allyes.com/main/adfshow?user=MSN|MSN_Spaces|SPAZ05_CNZHsSPACEROS_BAN728X90_I3&db=msn&local=yes&js=on">\n</script>\n</IFRAME>\n</body></html>'));
+[DOC_dapIfM0]
+BASEURL=http://lucenebook.spaces.live.com/
+ORIGURL=javascript:void(document.write('<html><head><title>Advertisement</title></head><body id="dapIfM0" leftmargin="0" topmargin="0" style="background-color:transparent"><script type="text/javascript">var inDapIF=true; var inDapMgrIf=true;document.domain="live.com";</script><script type="text/javascript"  src="http://rad.live.com/ADSAdClient31.dll?GetSAd=&DPJS=4&PG=SPAZ05&AP=1390" onreadystatechange="startTimer();"></script><script type="text/javascript">function startTimer(){if (event.srcElement.readyState == "complete") {parent.verifyDapResize(0);window.setTimeout("document.close();", 2000);}}</script></body></html>'));
+[InternetShortcut]
+URL=http://lucenebook.spaces.live.com/
+Modified=F081E58E201FC901ED
+IconFile=http://cn2.sclive.net/00.0.0000.0000/Web/images/favicon.ico
+IconIndex=1
