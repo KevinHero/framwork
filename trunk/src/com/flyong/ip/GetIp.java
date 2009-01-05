@@ -1,37 +1,28 @@
 package com.flyong.ip;
 
 import java.io.DataInputStream;
-import java.io.IOException;
 import java.net.InetAddress;
-import java.net.MalformedURLException;
-import java.net.NetworkInterface;
 import java.net.URL;
 import java.net.URLConnection;
 import java.net.UnknownHostException;
-import java.util.Enumeration;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
-import javax.servlet.http.HttpServletRequest;
 
 public class GetIp {
-	
+
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) throws Exception {
-		String ip=returnLocalHostInWWWIp();
-		System.out.println("LocalHostInWWWIp is="+"["+ip+"]");	
-		
+		String ip = returnLocalHostInWWWIp();
+		System.out.println("LocalHostInWWWIp is=" + "[" + ip + "]");
+
 		String host = "java.e800.com.cn";
 		String ipHost = getIpAddressByHost(host);
-		System.out.println("["+host+"]"+ "Ip is : " + ipHost);
-			
+		System.out.println("[" + host + "]" + "Ip is : " + ipHost);
+
 		System.out.println("LocalIP" + " : " + getLocalIP());
 	}
-	
-	
-	public static String returnLocalHostInWWWIp() throws Exception{
+
+	public static String returnLocalHostInWWWIp() throws Exception {
 		DataInputStream is;
 		// www.ip138.com www.whatismyip.com
 		URL url = new URL("http://www.whatismyip.com");
@@ -43,22 +34,20 @@ public class GetIp {
 		while ((inputline = is.readLine()) != null) {
 
 			if (inputline.indexOf("Your IP Address Is") != -1) {
-				int tail = inputline.indexOf("</h1>");		
+				int tail = inputline.indexOf("</h1>");
 				int head = inputline.indexOf("Your IP Address Is");
 				String temp = inputline.substring(head, tail);
 				temp = temp.replaceAll("span", "");
 				temp = temp.replaceAll("<>", "");
 				temp = temp.replaceAll("</>", "");
 				temp = temp.substring(temp.indexOf("Is") + 2);
-				temp=temp.trim();
+				temp = temp.trim();
 				yourIP = temp;
-			}		
-		}	
+			}
+		}
 		return yourIP;
 	}
-	
-	
-	
+
 	public static String getIpAddressByHost(String host) {
 		String ip = "";
 		InetAddress address;
