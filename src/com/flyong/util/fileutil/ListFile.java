@@ -12,10 +12,10 @@ public class ListFile {
 	
 		File f=new File("E:/topic");
 			
-		listFileByTree(f,1);//以树状的形式遍历文件目录
+		//listFileByTree(f,1);//以树状的形式遍历文件目录
 		System.out.println("\n");
 		
-		renameFileExtensionNameOfDirectory(f,"txt");//重命名指定目录所有文件扩展名
+		renameFileExtensionNameOfDirectory(f,"html");//重命名指定目录所有文件扩展名
 		listFileByTree(f,1);//以树状的形式遍历文件目录
 	}
 
