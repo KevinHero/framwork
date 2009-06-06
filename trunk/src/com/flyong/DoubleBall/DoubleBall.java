@@ -10,7 +10,7 @@ public class DoubleBall {
     private List<int[]> ballList;   
     // 保存一注号码的数组   
     private int[] ball;   
-  
+   // 090606
     /**  
      * 构造方法  
      *   
